@@ -1,0 +1,9 @@
+{
+  "name": "content-repurposing",
+  "description": "Extract and repurpose long-form content into platform-specific formats for Twitter/X, LinkedIn, Substack, newsletters, and more. Turn one piece of content into 20+ pieces across platforms.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Content Studio"
+  },
+  "keywords": ["content", "repurposing", "marketing", "social-media", "newsletter"]
+}
